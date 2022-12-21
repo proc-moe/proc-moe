@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @proc-moe
-- 👀 I’m interested in bad ideas
-- 🌱 I’m currently learning OS, DevOps, CrossDressing.
-- 💞️ I’m looking to collaborate on everybody.
-- 📫 How to reach me here
+天生万物以养人，人物一物以报天。
