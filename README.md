@@ -1,1 +1,1 @@
-天生万物以养人，人物一物以报天。
+English by default
